@@ -15,3 +15,5 @@
     - use `mvn clean install` to install dependencies.
     - setup the database named `flight_tracker` in the local database.
     - start the java FlightTrackerApplication.
+    - generate a firebase json sdk from firebase to use it in your application in java and paste it in resources folder.
+    - accordingly change name of sdk in the firebase message bean.
